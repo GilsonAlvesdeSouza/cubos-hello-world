@@ -1,2 +1,5 @@
 # cubos-hello-world
-Exercico de Casa
+
+## Exercico de Casa
+
+**1. Utilizando as novas ferramentas**
